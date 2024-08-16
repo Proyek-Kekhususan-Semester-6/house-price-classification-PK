@@ -1,2 +1,2 @@
-# sentiment-analysis-PK
-Unstructured Project
+# house-price-prediction-PK
+Structured Project
